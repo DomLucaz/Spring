@@ -1,0 +1,5 @@
+package br.org.generation.hello2.controller;
+
+public class Hello2Controller {
+
+}
