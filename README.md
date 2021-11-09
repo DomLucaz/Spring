@@ -1,2 +1,2 @@
-# STS - Spring Tool
+# Spring
 Spring's activities
